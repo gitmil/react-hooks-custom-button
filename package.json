@@ -8,8 +8,8 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "react-scripts": "3.0.1",
-    "react-styleguidist": "^9.1.14"
+    "react-scripts": "5.0.1",
+    "react-styleguidist": "^13.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
